@@ -1,6 +1,4 @@
-# Digital Forge Portfolio
-
-![Project Banner](path_to_banner_image.png)
+# Portfolio
 
 A modern and interactive portfolio website built with React, Three.js, and Framer Motion. Featuring a dynamic 3D background with floating code elements and smooth animations.
 
